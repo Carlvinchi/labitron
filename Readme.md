@@ -8,6 +8,8 @@ In this project I tried to build a chatbot that can analyze test results, and as
 
 I used open sourced AI models via ollama, so if you want to run this project you must have ollama running locally or via docker.
 
+The app gives you the option to choose a model from the list of models you have installed using ollama
+
 Langchain was used to handle conversations and memory
 
 Streamlit was used to develop chatGPT like UI
